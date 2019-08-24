@@ -28,3 +28,7 @@ python mass_image_resizer.py png 800 600
 ```
 
 That's it.
+
+
+## TODO
+- [ ] Move the modified images to a seperated folder.
